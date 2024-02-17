@@ -3,5 +3,5 @@ services :
     web :
       image : imran177/nginx-app:latest
       ports:
-        - "8000:8000"
+        - "8200:8200"
      
